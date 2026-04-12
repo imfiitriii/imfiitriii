@@ -18,7 +18,7 @@ I'm a Computer Science student, currently learning the fundamentals of full-stac
 
 ---
 ## Tech stack
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,html,css,js,git,github,vscode,visualstudio,react,nodejs,tailwind,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,vscode,visualstudio,git,github,html,css,js,react,vite,nodejs,vercel,tailwind,flutter,dart" />
 <!--
 **imfiitriii/imfiitriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
