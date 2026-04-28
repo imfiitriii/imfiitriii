@@ -37,8 +37,8 @@ A voice-native financial access platform that guides users through TNG onboardin
 <td width="50%">
 
 #### Digital Alert  
-A Flutter mobile app solution that features STT to convert user recording to a formal documented report.
-- User can do voice recording to do complaints about an issue
+A Flutter mobile app solution for enterprise that features STT to convert employee issues via voice recording to a formal documented report.
+- Employees can do voice recording to do complaints about an issue
 - Voice is transcribed and stored in Firebase Database
 - A full documented report will be generated based on the record in Firebase
 
@@ -69,7 +69,7 @@ A Flutter mobile app solution that features STT to convert user recording to a f
 ---
 
 ## Tech stack
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,vscode,visualstudio,git,github,html,css,js,ts,react,redux,vite,nextjs,nodejs,vercel,tailwind,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,vscode,visualstudio,git,github,html,css,js,ts,react,redux,vite,nextjs,nodejs,vercel,tailwind,flutter,dart,firebase" />
 
 ---
 ## Contact me!
