@@ -19,7 +19,7 @@ A voice-native financial access platform that guides users through TNG onboardin
 - Localised onboarding assistant in their own native language
 - Simplified UI for easy adoption among community in Sabah and Sarawak
 - AI voice assistant that guides users to use e-wallet in their own native language by highlighting the UI for performing transaction and summarizing user's budget.
-- Built on AWS and Alibaba Cloud. (Qwen, Sagemaker, S3 and Amazon Prolly)
+- Built on AWS and Alibaba Cloud. (Qwen, Sagemaker, S3 and Amazon Polly)
 
 </td>
 </tr>
