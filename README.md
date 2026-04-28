@@ -69,7 +69,7 @@ A Flutter mobile app solution that features STT to convert user recording to a f
 ---
 
 ## Tech stack
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,vscode,visualstudio,git,github,html,css,js,react,redux,vite,nextjs,nodejs,vercel,tailwind,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,vscode,visualstudio,git,github,html,css,js,ts,react,redux,vite,nextjs,nodejs,vercel,tailwind,flutter,dart" />
 
 ---
 ## Contact me!
